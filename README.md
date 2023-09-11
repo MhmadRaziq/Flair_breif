@@ -22,4 +22,23 @@
     <td align="center"><img src="https://github.com/MhmadRaziq/Flair_breif/assets/76057495/26a28c74-a347-4f9b-a1f5-1dacb2a2e990" width="200px" alt="Image 5"></td>
     <td align="center"><img src="https://github.com/MhmadRaziq/Flair_breif/assets/76057495/19a823ad-c0b7-40dc-943b-6de838d16d6e" width="200px" alt="Image 6"></td>
   </tr>
+    <tr>
+    <td align="center"><img src="![IMG_0115](https://github.com/MhmadRaziq/Flair_breif/assets/76057495/c060d7e2-0f50-45f1-bd0a-93797179f8db)" width="200px" alt="Image 4"></td>
+    <td align="center"><img src="![IMG_0116](https://github.com/MhmadRaziq/Flair_breif/assets/76057495/105aeaba-6997-4a68-a48a-3e7a28b0692e)" width="200px" alt="Image 5"></td>
+    <td align="center"><img src="![IMG_0117](https://github.com/MhmadRaziq/Flair_breif/assets/76057495/f8cd7166-46a0-4aaa-9d0c-339ee1201c17)" width="200px" alt="Image 6"></td>
+  </tr>
+
+    <tr>
+    <td align="center"><img src="![IMG_0118](https://github.com/MhmadRaziq/Flair_breif/assets/76057495/d2e99ac4-af20-4ae1-89dd-88705e0160be)" width="200px" alt="Image 4"></td>
+    <td align="center"><img src="![IMG_0119](https://github.com/MhmadRaziq/Flair_breif/assets/76057495/13fc71c3-4432-479c-91a6-c4ce8c7815c6)" width="200px" alt="Image 5"></td>
+    <td align="center"><img src="![IMG_0120](https://github.com/MhmadRaziq/Flair_breif/assets/76057495/a2e9f732-c432-403d-bb1c-7bccd5365ce7)
+" width="200px" alt="Image 6"></td>
+  </tr>
+
+   <tr>
+    <td align="center"><img src="![IMG_0121](https://github.com/MhmadRaziq/Flair_breif/assets/76057495/d69d8569-3300-4a05-9f6b-74a7cf0eea2b)" width="200px" alt="Image 4"></td>
+    <td align="center"><img src="![IMG_0122](https://github.com/MhmadRaziq/Flair_breif/assets/76057495/950cebf6-bf15-4813-91b5-1e243693a68f)
+" width="200px" alt="Image 5"></td>
+    <td align="center"><img src="![IMG_0125](https://github.com/MhmadRaziq/Flair_breif/assets/76057495/e4b7a107-6d06-4e5c-aaf2-eb099224ecf0)" width="200px" alt="Image 6"></td>
+  </tr>
 </table>
